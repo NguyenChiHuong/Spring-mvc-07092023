@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Jan 14 21:54:35 ICT 2024
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\huong\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\8.5.39\\tomcat-embed-websocket-8.5.39.jar=WEB-INF/lib/tomcat-embed-websocket-8.5.39.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\huong\\.m2\\repository\\org\\springframework\\spring-web\\4.3.13.RELEASE\\spring-web-4.3.13.RELEASE.jar=WEB-INF/lib/spring-web-4.3.13.RELEASE.jar
